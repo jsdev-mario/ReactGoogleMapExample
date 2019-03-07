@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](https://raw.githubusercontent.com/bk313131/ReactGoogleMapExample/master/screenshots/Screen Shot 2019-03-07 at 11.42.32 PM.png)
+![alt text](https://raw.githubusercontent.com/bk313131/ReactGoogleMapExample/master/screenshots/1.png)
 
 ## Reference
 [Document](https://tomchentw.github.io/react-google-maps/).
